@@ -22,7 +22,8 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [QuillBot](https://www.sinwaver.com/)                                                              | AI Paraphrasing Tool  |
+| [QuillBot](https://quillbot.com/)                                                              | AI Paraphrasing Tool  |
+| [CopyAI](https://www.copy.ai/)                                                              | An AI-powered copywriter that generates high-quality copy for your business and community  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
