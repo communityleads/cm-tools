@@ -12,11 +12,12 @@
 
 >Websites and resources with email services for marketing, broadcasting and  sending of emails.
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Gmail](https://www.gmail.com/)                                                              | Free email service provided by Google, it also supports the use of email clients via the POP and IMAP protocols.   |
-| [SubStack](https://substack.com/)                                                              | Free email service provided by Google, it also supports the use of email clients via the POP and IMAP protocols.   |
-
+| [Gmail](https://www.gmail.com/) | Free email service provided by Google, it also supports the use of email clients via the POP and IMAP protocols.   |
+| [SubStack](https://substack.com/) | A powerful newsletter tool for your subscribers with blog, newsletter, payment system, and customer support team features  |
+| [Flodesk](https://flodesk.com/) | An amazing platform to design and send on-brand marketing emails.  |
+| [Mailchimp](https://mailchimp.com/) | Mailchimp is a comprehensive email marketing platform that fulfills all your requirements of email correspondence with customers, affiliates, and other stakeholders |
 ## Content Writing
 
 >Websites with copywriting and paraphrasing  tools
