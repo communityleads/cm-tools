@@ -4,9 +4,18 @@
 
 ## Table of Contents
 
+- [Design](#design)
 - [Email](#email)
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
+
+## Design
+
+>Websites and resources for making designs, mockups and flyers.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Canva](https://www.canva.com/) | Canva is a graphic design platform that is used to create social media graphics and presentations.|
 
 ## Email
 
