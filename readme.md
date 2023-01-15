@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Design](#design)
+- [Documentation](#documentation)
 - [Email](#email)
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
@@ -16,6 +17,16 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Canva](https://www.canva.com/) | Canva is a graphic design platform that is used to create social media graphics and presentations.|
+
+
+## Documentation
+
+>Websites and resources for making documentation, making notes, planning and staying organized.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It is offering many organizational tools including task management, project tracking, to-do lists, bookmarking, and more.|
+
 
 ## Email
 
