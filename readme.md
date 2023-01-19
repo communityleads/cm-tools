@@ -4,11 +4,19 @@
 
 ## Table of Contents
 
+- [Data Collection and Surveys](#data-collection-and-surveys)
 - [Design](#design)
 - [Documentation](#documentation)
 - [Email](#email)
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
+
+## Data Collection and Surveys
+
+>Websites and resources for creating forms, gathering data,surveys and quizzes.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 
 ## Design
 
@@ -18,7 +26,6 @@
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Canva](https://www.canva.com/) | Canva is a graphic design platform that is used to create social media graphics and presentations.|
 
-
 ## Documentation
 
 >Websites and resources for making documentation, making notes, planning and staying organized.
@@ -26,7 +33,6 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It is offering many organizational tools including task management, project tracking, to-do lists, bookmarking, and more.|
-
 
 ## Email
 
@@ -38,6 +44,7 @@
 | [SubStack](https://substack.com/) | A powerful newsletter tool for your subscribers with blog, newsletter, payment system, and customer support team features  |
 | [Flodesk](https://flodesk.com/) | An amazing platform to design and send on-brand marketing emails.  |
 | [Mailchimp](https://mailchimp.com/) | Mailchimp is a comprehensive email marketing platform that fulfills all your requirements of email correspondence with customers, affiliates, and other stakeholders |
+
 ## Content Writing
 
 >Websites with copywriting and paraphrasing  tools
