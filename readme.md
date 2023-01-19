@@ -38,6 +38,8 @@
 | [SubStack](https://substack.com/) | A powerful newsletter tool for your subscribers with blog, newsletter, payment system, and customer support team features  |
 | [Flodesk](https://flodesk.com/) | An amazing platform to design and send on-brand marketing emails.  |
 | [Mailchimp](https://mailchimp.com/) | Mailchimp is a comprehensive email marketing platform that fulfills all your requirements of email correspondence with customers, affiliates, and other stakeholders |
+| [SendGrid](https://sendgrid.com/) | SendGrid is an email service provider that enables you to design marketing and newsletter emails in different forms, it also allows you to design your emails using its library of responsive templates, or start from scratch, design with drag & drop tools, pure HTML, or both or building your own design template from scratch. |
+
 ## Content Writing
 
 >Websites with copywriting and paraphrasing  tools
