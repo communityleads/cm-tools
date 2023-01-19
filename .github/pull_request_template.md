@@ -2,10 +2,10 @@
 
 # Resource Name - Edit this line
 
-Edit this line with Small Description about new added resource
+Edit this line with Small Description about newly added resource
 
 Link: www.linkToResource
 
-## Checklist:
+## Checklist
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+- [ ] I have performed a self-review of the submitted resource and it follows the guidelines of the project.
