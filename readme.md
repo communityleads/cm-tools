@@ -1,6 +1,6 @@
 # CM Tools and Resources
 
-#### Please go through the [`contribution guidelines`](./contributing.md) before submitting new resources
+#### Please go through the [`contribution guidelines`](./contribution.md) before submitting new resources
 
 ## Table of Contents
 
