@@ -18,6 +18,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Google Forms](https://docs.google.com/forms/) |Google Forms is a free survey administration software that enables you to create online forms and surveys with multiple question types. Analyze results in real time and from any device.|
+| [SurveyMonkey](https://www.surveymonkey.com//) | SurveyMonkey is online survey software that helps you to create, edit and run professional online surveys. The basic plan allows you to have only 10 questions per survey with a maximum of 100 responses per survey (you can have unlimited questions and responses per survey in the premium plans). |
 
 
 ## Design
@@ -58,6 +59,7 @@
 | [Grammerly](https://grammarly.com/) | A cloud-based typing assistant. It reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes in English texts, detects plagiarism, and suggests replacements for the identified errors.|
 | [Google Docs](https://www.google.com/docs/about/)                                                              | An online word document editor with real-time collaboration on online documents from any device.  |
 | [QuillBot](https://quillbot.com/) | AI Paraphrasing Tool  |
+| [WriteSonic](https://writesonic.com/) | AI Writing Tool for creating SEO-friendly content for articles, LinkedIn post, Facebook Ads, Product Description and lots more. |
 
 ## Task Management
 
@@ -67,6 +69,7 @@
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Todoist](https://todoist.com/) | A turbo boost todo app the lets you plan out your day and week and stay organized  |
 | [Trello](https://trello.com/)                                                              | Trello is a visual tool that empowers your team to manage any type of project, workflow, or task tracking. |
+| [Jira](https://jira.atlassian.com/) | Jira helps teams plan, assign, track, report, and manage work and brings teams together for everything from agile software development and customer support to start-ups and enterprises. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
