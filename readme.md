@@ -8,8 +8,10 @@
 - [Design](#design)
 - [Documentation](#documentation)
 - [Email](#email)
+- [Event Management](#event-management)
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
+
 
 ## Data Collection and Surveys
 
@@ -48,6 +50,17 @@
 | [Flodesk](https://flodesk.com/) | An amazing platform to design and send on-brand marketing emails.  |
 | [Mailchimp](https://mailchimp.com/) | Mailchimp is a comprehensive email marketing platform that fulfills all your requirements of email correspondence with customers, affiliates, and other stakeholders |
 | [SendGrid](https://sendgrid.com/) | SendGrid is an email service provider that enables you to design marketing and newsletter emails in different forms, it also allows you to design your emails using its library of responsive templates, or start from scratch, design with drag & drop tools, pure HTML, or both or building your own design template from scratch. |
+
+## Event Management 
+
+>Websites and resources with event management, hosting both virtual and physical events.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Zoom](https://zoom.us/) | Zoom is an innovative video solutions for every meeting space. |
+| [Hopin](https://hopin.com/) | New ways to communicate with your customers through cutting edge video technology. |
+| [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/) | Microsoft Teams is a communication tool created by Microsoft |
+| [Google Meet](https://meet.google.com/) | Google Meet helps your team stay securely connected with enterprise-grade video conferencing built on Google’s robust and secure global infrastructure. Meet is included with Google Workspace, Google Workspace Essentials, and Google Workspace for Education. |
 
 ## Content Writing
 
