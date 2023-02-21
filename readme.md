@@ -70,6 +70,8 @@
 | [Todoist](https://todoist.com/) | A turbo boost todo app the lets you plan out your day and week and stay organized  |
 | [Trello](https://trello.com/)                                                              | Trello is a visual tool that empowers your team to manage any type of project, workflow, or task tracking. |
 | [Jira](https://jira.atlassian.com/) | Jira helps teams plan, assign, track, report, and manage work and brings teams together for everything from agile software development and customer support to start-ups and enterprises. |
+| [ClickUp](https://clickup.com/) | Align your teams, simplify collaboration, and get more done with ClickUp's flexible all-in-one productivity solution for Enterprises. |
+| [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It is offering many organizational tools including task management, project tracking, to-do lists, bookmarking, and more.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
