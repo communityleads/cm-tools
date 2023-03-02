@@ -2,7 +2,7 @@
 
 # Resource Name - Edit this line
 
-Edit this line with Small Description about newly added resource
+Edit this line with a small description of the newly added resource
 
 Link: www.linkToResource
 
