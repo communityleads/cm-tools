@@ -12,7 +12,6 @@
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
 
-
 ## Data Collection and Surveys
 
 >Websites and resources for creating forms, gathering data,surveys and quizzes.
@@ -20,8 +19,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Google Forms](https://docs.google.com/forms/) |Google Forms is a free survey administration software that enables you to create online forms and surveys with multiple question types. Analyze results in real time and from any device.|
-| [SurveyMonkey](https://www.surveymonkey.com//) | SurveyMonkey is online survey software that helps you to create, edit and run professional online surveys. The basic plan allows you to have only 10 questions per survey with a maximum of 100 responses per survey (you can have unlimited questions and responses per survey in the premium plans). |
-
+| [SurveyMonkey](https://www.surveymonkey.com/) | SurveyMonkey is online survey software that helps you to create, edit and run professional online surveys. The basic plan allows you to have only 10 questions per survey with a maximum of 100 responses per survey (you can have unlimited questions and responses per survey in the premium plans). |
 
 ## Design
 
@@ -51,16 +49,16 @@
 | [Mailchimp](https://mailchimp.com/) | Mailchimp is a comprehensive email marketing platform that fulfills all your requirements of email correspondence with customers, affiliates, and other stakeholders |
 | [SendGrid](https://sendgrid.com/) | SendGrid is an email service provider that enables you to design marketing and newsletter emails in different forms, it also allows you to design your emails using its library of responsive templates, or start from scratch, design with drag & drop tools, pure HTML, or both or building your own design template from scratch. |
 
-## Event Management 
+## Event Management
 
->Websites and resources with event management, hosting both virtual and physical events.
+>Websites and resources for hosting both virtual and physical events.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Zoom](https://zoom.us/) | Zoom is an innovative video solutions for every meeting space. |
-| [Hopin](https://hopin.com/) | New ways to communicate with your customers through cutting edge video technology. |
-| [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/) | Microsoft Teams is a communication tool created by Microsoft |
-| [Google Meet](https://meet.google.com/) | Google Meet helps your team stay securely connected with enterprise-grade video conferencing built on Google’s robust and secure global infrastructure. Meet is included with Google Workspace, Google Workspace Essentials, and Google Workspace for Education. |
+| [Zoom (virtual)](https://zoom.us/) | Zoom is a video conferencing platform used for virtual events, enabling remote collaboration through audio, video, and chat. It offers features like screen sharing and breakout rooms for seamless communication. |
+| [Hopin (virtual)](https://hopin.com/) | Hopin is a virtual event platform that enables people to host and attend online events. It provides interactive features like live video streaming, networking, and virtual booths to replicate the in-person event experience. Hopin offers tools and customization options for organizers to create engaging and impactful events. |
+| [Microsoft Teams (virtual)](https://www.microsoft.com/en/microsoft-teams/) | Microsoft Teams is a collaboration platform used for virtual events, providing features such as video meetings and file sharing. It offers customization options and features like screen sharing and live event streaming to enhance the virtual event experience. |
+| [Google Meet (virtual)](https://meet.google.com/) | Google Meet is a video conferencing platform used for virtual events, offering features like screen sharing and recording. It integrates with other Google services  such as Google Calendar and Gmail, for seamless scheduling and communication, it allows attendees to participate remotely from any location with an internet connection. |
 
 ## Content Writing
 
