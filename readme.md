@@ -11,6 +11,7 @@
 - [Event Management](#event-management)
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
+- [Community Workspace](#community-workspace)
 
 ## Data Collection and Surveys
 
@@ -20,6 +21,7 @@
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Google Forms](https://docs.google.com/forms/) |Google Forms is a free survey administration software that enables you to create online forms and surveys with multiple question types. Analyze results in real time and from any device.|
 | [SurveyMonkey](https://www.surveymonkey.com/) | SurveyMonkey is online survey software that helps you to create, edit and run professional online surveys. The basic plan allows you to have only 10 questions per survey with a maximum of 100 responses per survey (you can have unlimited questions and responses per survey in the premium plans). |
+| [Airtable](https://www.https://airtable.com/) | Airtable is a platform that makes it easy to build powerful, custom applications. It can also be used to do everything from tracking job interviews to managing large-scale video production and even data collection. (this tool is a freemium). |
 
 ## Design
 
@@ -36,6 +38,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It is offering many organizational tools including task management, project tracking, to-do lists, bookmarking, and more.|
+| [Airtable](https://www.https://airtable.com/) | Airtable is a platform that makes it easy to build powerful, custom applications. It can also be used to do everything from tracking job interviews to managing large-scale video production and even data collection. (this tool is a freemium). |
 
 ## Email
 
@@ -83,6 +86,17 @@
 | [Jira](https://jira.atlassian.com/) | Jira helps teams plan, assign, track, report, and manage work and brings teams together for everything from agile software development and customer support to start-ups and enterprises. |
 | [ClickUp](https://clickup.com/) | Align your teams, simplify collaboration, and get more done with ClickUp's flexible all-in-one productivity solution for Enterprises. |
 | [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It is offering many organizational tools including task management, project tracking, to-do lists, bookmarking, and more.|
+| [Airtable](https://www.https://airtable.com/) | Airtable is a platform that makes it easy to build powerful, custom applications. It can also be used to do everything from tracking job interviews to managing large-scale video production and even data collection. (this tool is a freemium). |
+
+## Community Workspace
+
+>Websites and resources for managing online communitites.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Slack](https://slack.com/) |Slack is a messaging app that transforms the way organisations communicate by bringing them together to work as one unified team. It has both the web version and mobile app(s).|
+| [Discord](https://discord.com/) |Discord is a free communications app that lets you share voice, video, and text chat with friends, game communities, and developers. |
+| [Telegram](https://telegram.org/) |Telegram is a messaging app with a focus on speed and security, it's super-fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
