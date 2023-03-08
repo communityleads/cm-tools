@@ -80,8 +80,11 @@
 
 | Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Community Metrics Template](https://docs.google.com/spreadsheets/d/1K-HyWGdGHR5rxbVoMMl4bIv0g6N7U4lx-bQXWBjAB48/edit?usp=sharing) | 
-Understand key drivers of community performance: Acquisition, Conversion, and Engagement | 
+| [Community Metrics Template](https://docs.google.com/spreadsheets/d/1K-HyWGdGHR5rxbVoMMl4bIv0g6N7U4lx-bQXWBjAB48/edit?usp=sharing) | Understand key drivers of community performance: Acquisition, Conversion, and Engagement. |
+| [OKR Planning](https://docs.google.com/document/d/1j8lkrYFJZZZfyGOOkLIJLFPC6V1IcSXpmLoha8iD1wQ/edit?usp=sharing) | OKRs used to define success criteria, organize teams, gain alignment, and track progress |
+| [Community Canvas](https://community-canvas.org/)                                                           | A framework to help you build meaningful communities |
+| [Community Gamification](https://docs.google.com/spreadsheets/d/1zDjqxiwlf5q3hU2Fasc9E0yS8XYSoiL8iaaBg3CKsSc/edit?usp=sharing) | Building ranking programs to drive behaviors and recognize top contributors in your community |
+| [Customer Journey](https://docs.google.com/presentation/d/1ddzYYQxIpKNGZEZytMB6pjuLsM5n-rWhpUcPm06ZKwk/edit?usp=sharing) | Data-driven program to meaningfully improve customer experience across key touchpoints |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
