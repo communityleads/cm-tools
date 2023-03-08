@@ -10,6 +10,7 @@
 - [Email](#email)
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
+- [Templates](#templates)
 
 ## Data Collection and Surveys
 
@@ -72,6 +73,15 @@
 | [Jira](https://jira.atlassian.com/) | Jira helps teams plan, assign, track, report, and manage work and brings teams together for everything from agile software development and customer support to start-ups and enterprises. |
 | [ClickUp](https://clickup.com/) | Align your teams, simplify collaboration, and get more done with ClickUp's flexible all-in-one productivity solution for Enterprises. |
 | [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It is offering many organizational tools including task management, project tracking, to-do lists, bookmarking, and more.|
+
+## Templates
+
+>Templates needed as a community manager.
+
+| Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Community Metrics Template](https://docs.google.com/spreadsheets/d/1K-HyWGdGHR5rxbVoMMl4bIv0g6N7U4lx-bQXWBjAB48/edit?usp=sharing) | 
+Understand key drivers of community performance: Acquisition, Conversion, and Engagement | 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
