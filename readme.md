@@ -8,9 +8,11 @@
 - [Design](#design)
 - [Documentation](#documentation)
 - [Email](#email)
+- [Event Management](#event-management)
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
 - [Templates](#templates)
+- [Community Workspace](#community-workspace)
 
 ## Data Collection and Surveys
 
@@ -19,8 +21,8 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Google Forms](https://docs.google.com/forms/) |Google Forms is a free survey administration software that enables you to create online forms and surveys with multiple question types. Analyze results in real time and from any device.|
-| [SurveyMonkey](https://www.surveymonkey.com//) | SurveyMonkey is online survey software that helps you to create, edit and run professional online surveys. The basic plan allows you to have only 10 questions per survey with a maximum of 100 responses per survey (you can have unlimited questions and responses per survey in the premium plans). |
-
+| [SurveyMonkey](https://www.surveymonkey.com/) | SurveyMonkey is online survey software that helps you to create, edit and run professional online surveys. The basic plan allows you to have only 10 questions per survey with a maximum of 100 responses per survey (you can have unlimited questions and responses per survey in the premium plans). |
+| [Airtable](https://www.https://airtable.com/) | Airtable is a platform that makes it easy to build powerful, custom applications. It can also be used to do everything from tracking job interviews to managing large-scale video production and even data collection. (this tool is a freemium). |
 
 ## Design
 
@@ -37,6 +39,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It is offering many organizational tools including task management, project tracking, to-do lists, bookmarking, and more.|
+| [Airtable](https://www.https://airtable.com/) | Airtable is a platform that makes it easy to build powerful, custom applications. It can also be used to do everything from tracking job interviews to managing large-scale video production and even data collection. (this tool is a freemium). |
 
 ## Email
 
@@ -49,6 +52,17 @@
 | [Flodesk](https://flodesk.com/) | An amazing platform to design and send on-brand marketing emails.  |
 | [Mailchimp](https://mailchimp.com/) | Mailchimp is a comprehensive email marketing platform that fulfills all your requirements of email correspondence with customers, affiliates, and other stakeholders |
 | [SendGrid](https://sendgrid.com/) | SendGrid is an email service provider that enables you to design marketing and newsletter emails in different forms, it also allows you to design your emails using its library of responsive templates, or start from scratch, design with drag & drop tools, pure HTML, or both or building your own design template from scratch. |
+
+## Event Management
+
+>Websites and resources for hosting both virtual and physical events.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Zoom (virtual)](https://zoom.us/) | Zoom is a video conferencing platform used for virtual events, enabling remote collaboration through audio, video, and chat. It offers features like screen sharing and breakout rooms for seamless communication. |
+| [Hopin (virtual)](https://hopin.com/) | Hopin is a virtual event platform that enables people to host and attend online events. It provides interactive features like live video streaming, networking, and virtual booths to replicate the in-person event experience. Hopin offers tools and customization options for organizers to create engaging and impactful events. |
+| [Microsoft Teams (virtual)](https://www.microsoft.com/en/microsoft-teams/) | Microsoft Teams is a collaboration platform used for virtual events, providing features such as video meetings and file sharing. It offers customization options and features like screen sharing and live event streaming to enhance the virtual event experience. |
+| [Google Meet (virtual)](https://meet.google.com/) | Google Meet is a video conferencing platform used for virtual events, offering features like screen sharing and recording. It integrates with other Google services  such as Google Calendar and Gmail, for seamless scheduling and communication, it allows attendees to participate remotely from any location with an internet connection. |
 
 ## Content Writing
 
@@ -73,6 +87,17 @@
 | [Jira](https://jira.atlassian.com/) | Jira helps teams plan, assign, track, report, and manage work and brings teams together for everything from agile software development and customer support to start-ups and enterprises. |
 | [ClickUp](https://clickup.com/) | Align your teams, simplify collaboration, and get more done with ClickUp's flexible all-in-one productivity solution for Enterprises. |
 | [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It is offering many organizational tools including task management, project tracking, to-do lists, bookmarking, and more.|
+| [Airtable](https://www.https://airtable.com/) | Airtable is a platform that makes it easy to build powerful, custom applications. It can also be used to do everything from tracking job interviews to managing large-scale video production and even data collection. (this tool is a freemium). |
+
+## Community Workspace
+
+>Websites and resources for managing online communitites.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Slack](https://slack.com/) |Slack is a messaging app that transforms the way organisations communicate by bringing them together to work as one unified team. It has both the web version and mobile app(s).|
+| [Discord](https://discord.com/) |Discord is a free communications app that lets you share voice, video, and text chat with friends, game communities, and developers. |
+| [Telegram](https://telegram.org/) |Telegram is a messaging app with a focus on speed and security, it's super-fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers. |
 
 ## Templates
 
