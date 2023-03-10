@@ -11,6 +11,7 @@
 - [Event Management](#event-management)
 - [Content Writing](#content-writing)
 - [Task Management](#task-management)
+- [Templates](#templates)
 - [Community Workspace](#community-workspace)
 
 ## Data Collection and Surveys
@@ -97,6 +98,18 @@
 | [Slack](https://slack.com/) |Slack is a messaging app that transforms the way organisations communicate by bringing them together to work as one unified team. It has both the web version and mobile app(s).|
 | [Discord](https://discord.com/) |Discord is a free communications app that lets you share voice, video, and text chat with friends, game communities, and developers. |
 | [Telegram](https://telegram.org/) |Telegram is a messaging app with a focus on speed and security, it's super-fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers. |
+
+## Templates
+
+>Templates needed as a community manager.
+
+| Link&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Community Metrics Template](https://docs.google.com/spreadsheets/d/1K-HyWGdGHR5rxbVoMMl4bIv0g6N7U4lx-bQXWBjAB48/edit?usp=sharing) | Understand key drivers of community performance: Acquisition, Conversion, and Engagement. |
+| [OKR Planning](https://docs.google.com/document/d/1j8lkrYFJZZZfyGOOkLIJLFPC6V1IcSXpmLoha8iD1wQ/edit?usp=sharing) | OKRs used to define success criteria, organize teams, gain alignment, and track progress |
+| [Community Canvas](https://community-canvas.org/)                                                           | A framework to help you build meaningful communities |
+| [Community Gamification](https://docs.google.com/spreadsheets/d/1zDjqxiwlf5q3hU2Fasc9E0yS8XYSoiL8iaaBg3CKsSc/edit?usp=sharing) | Building ranking programs to drive behaviors and recognize top contributors in your community |
+| [Customer Journey](https://docs.google.com/presentation/d/1ddzYYQxIpKNGZEZytMB6pjuLsM5n-rWhpUcPm06ZKwk/edit?usp=sharing) | Data-driven program to meaningfully improve customer experience across key touchpoints |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
