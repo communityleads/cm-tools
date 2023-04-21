@@ -63,7 +63,7 @@
 | [Hopin (virtual)](https://hopin.com/) | Hopin is a virtual event platform that enables people to host and attend online events. It provides interactive features like live video streaming, networking, and virtual booths to replicate the in-person event experience. Hopin offers tools and customization options for organizers to create engaging and impactful events. |
 | [Microsoft Teams (virtual)](https://www.microsoft.com/en/microsoft-teams/) | Microsoft Teams is a collaboration platform used for virtual events, providing features such as video meetings and file sharing. It offers customization options and features like screen sharing and live event streaming to enhance the virtual event experience. |
 | [Google Meet (virtual)](https://meet.google.com/) | Google Meet is a video conferencing platform used for virtual events, offering features like screen sharing and recording. It integrates with other Google services  such as Google Calendar and Gmail, for seamless scheduling and communication, it allows attendees to participate remotely from any location with an internet connection. |
-
+| [Twitch (virtual)](https://www.twitch.tv/) | Twitch is a social video platform where gamers can broadcast, watch and talk about video games. Twitch’s video platform is the backbone of both live and distribution for the entire video game ecosystem. This includes game developers, publishers, media outlets, events, user-generated content, and the entire esports scene. |
 ## Content Writing
 
 >Websites with copywriting and paraphrasing  tools
