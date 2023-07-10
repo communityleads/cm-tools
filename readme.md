@@ -71,7 +71,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [CopyAI](https://www.copy.ai/) | An AI-powered copywriter that generates high-quality copy for your business and community  |
-| [Grammerly](https://grammarly.com/) | A cloud-based typing assistant. It reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes in English texts, detects plagiarism, and suggests replacements for the identified errors.|
+| [Grammarly](https://grammarly.com/) | A cloud-based typing assistant. It reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes in English texts, detects plagiarism, and suggests replacements for the identified errors.|
 | [Google Docs](https://www.google.com/docs/about/)                                                              | An online word document editor with real-time collaboration on online documents from any device.  |
 | [QuillBot](https://quillbot.com/) | AI Paraphrasing Tool  |
 | [WriteSonic](https://writesonic.com/) | AI Writing Tool for creating SEO-friendly content for articles, LinkedIn post, Facebook Ads, Product Description and lots more. |
