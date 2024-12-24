@@ -76,7 +76,7 @@
 | [Grammarly](https://grammarly.com/) | A cloud-based typing assistant. It reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes in English texts, detects plagiarism, and suggests replacements for the identified errors.|
 | [Google Docs](https://www.google.com/docs/about/) An online word document editor with real-time collaboration on online documents from any device.  |
 | [QuillBot](https://quillbot.com/) | AI Paraphrasing Tool  |
-| [WriteSonic](https://writesonic.com/) | AI Writing Tool for creating SEO-friendly content for articles, LinkedIn posts, Facebook Ads, Product Descriptions, and lots more. |
+| [WriteSonic](https://writesonic.com/) | AI Writing Tool for creating SEO-friendly content for articles, LinkedIn posts, Facebook ads, product descriptions, and lots more. |
 
 ## Task Management
 
