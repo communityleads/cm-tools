@@ -89,7 +89,7 @@
 | [Jira](https://jira.atlassian.com/) | Jira helps teams plan, assign, track, report, and manage work and brings teams together for everything from agile software development and customer support to start-ups and enterprises. |
 | [ClickUp](https://clickup.com/) | Align your teams, simplify collaboration, and get more done with ClickUp's flexible all-in-one productivity solution for Enterprises. |
 | [Notion](https://www.notion.so/) | Notion is a freemium productivity and note-taking web application developed by Notion Labs Inc. It offers many organizational tools, including task management, project tracking, to-do lists, bookmarking, and more.|
-| [Airtable](https://www.https://airtable.com/) | Airtable is a platform that makes it easy to build powerful, custom applications. It can also be used to track job interviews, manage large-scale video production, and even collect data. (this tool is a freemium). |
+| [Airtable](https://www.https://airtable.com/) | Airtable is a low-code platform that makes it easy to build powerful, custom applications. It can also be used for other things such as tracking job interviews, managing large-scale video production, and even collecting data. (this tool is a freemium). |
 
 ## Community Workspace
 
