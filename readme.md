@@ -23,7 +23,7 @@
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Google Forms](https://docs.google.com/forms/) |Google Forms is a free survey administration software that enables you to create online forms and surveys with multiple question types. Analyze results in real-time and from any device.|
 | [SurveyMonkey](https://www.surveymonkey.com/) | SurveyMonkey is an online survey software that helps you to create, edit, and run professional online surveys. The basic plan allows you to have only 10 questions per survey with a maximum of 100 responses per survey (you can have unlimited questions and responses per survey in the premium plans). |
-| [Airtable](https://www.https://airtable.com/) | Airtable is a platform that makes it easy to build powerful, custom applications. It can also be used to track job interviews, manage large-scale video production, and even collect data. (this tool is a freemium). |
+| [Airtable](https://www.https://airtable.com/) | Airtable is a low-code platform that makes it easy to build powerful, custom applications. It can also be used for other things such as tracking job interviews, managing large-scale video production, and even collecting data. (this tool is a freemium). |
 
 ## Design
 
