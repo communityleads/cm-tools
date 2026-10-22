@@ -100,6 +100,7 @@
 | [Slack](https://slack.com/) |Slack is a messaging app that transforms the way organizations communicate by bringing them together to work as one unified team. It has both the web version and mobile app(s).|
 | [Discord](https://discord.com/) |Discord is a free communications app that lets you share voice, video, and text chat with friends, game communities, and developers. |
 | [Telegram](https://telegram.org/) |Telegram is a messaging app with a focus on speed and security; it's super-fast, simple, and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets, or computers. |
+| [OpenSparta](https://opensparta.com/) | Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations. |
 
 ## Customer Relationship
 
